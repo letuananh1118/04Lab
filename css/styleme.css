@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+h1{
+    background-color: lightgray;
+    text-align: center;
+    margin: 0;
+    color: white;
+}
+ul{
+    /*border: 2px solid   darkred;*/
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    /*border: 2px solid blue;*/
+    background-color: skyblue;
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+}
+li:hover{
+    background-color: red;
+}
+a:hover{
+    background-color: yellow;
+}
